@@ -16,7 +16,7 @@ namespace InterfaceAbstractDemo
                 NationalityId = "28861499108",
                 FirstName = "Engin",
                 LastName = "Demiroğ",
-                DateOfBirth = new DateTime(1988, 1, 6)
+                DateOfBirth = new DateTime(1985, 1, 6)
 
             });
 
