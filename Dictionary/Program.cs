@@ -41,7 +41,7 @@ namespace Dictionary
             key[key.Length - 1] = indexs;
             value[value.Length - 1] = values;
 
-            Console.WriteLine(values + " ismini ekleme işlemini gerçekleştirdiniz.");
+            Console.WriteLine(values + " ismini ekleme işlemini gerçekleştirdiniz.Tebrikler.");
         }
     }
 }
