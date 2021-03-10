@@ -35,7 +35,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecapDemo1", "..\Demo Tahta
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceAbstractDemo", "InterfaceAbstractDemo\InterfaceAbstractDemo.csproj", "{4FA20785-70C6-48EB-A405-5D4758EF7295}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProject", "..\Game Project\GameProject\GameProject.csproj", "{DB39145F-2B86-42DC-8F9B-F939B24900C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameProject", "..\Game Project\GameProject\GameProject.csproj", "{DB39145F-2B86-42DC-8F9B-F939B24900C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqProject", "LinqProject\LinqProject.csproj", "{B3DA17C5-D37B-4462-B32A-87AFB4AB4602}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{DB39145F-2B86-42DC-8F9B-F939B24900C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB39145F-2B86-42DC-8F9B-F939B24900C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB39145F-2B86-42DC-8F9B-F939B24900C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3DA17C5-D37B-4462-B32A-87AFB4AB4602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3DA17C5-D37B-4462-B32A-87AFB4AB4602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3DA17C5-D37B-4462-B32A-87AFB4AB4602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3DA17C5-D37B-4462-B32A-87AFB4AB4602}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

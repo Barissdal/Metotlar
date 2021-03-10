@@ -8,7 +8,7 @@ namespace ClassMetotDemo
     {
         public void MusteriEkle(Musteri musteri)
         {
-            Console.WriteLine("Müsteri Bilgileri Sisteme Eklendi:");
+            Console.WriteLine("Müsteri Bilgileri Sisteme Eklendi: ");
             Console.WriteLine("Adı:" + musteri.Adi);
             Console.WriteLine("Soyadı:" + musteri.Soyadi);
             Console.WriteLine("Müsteri No:" + musteri.MusteriNo);
